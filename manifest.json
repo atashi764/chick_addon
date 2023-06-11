@@ -1,0 +1,35 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Chick addon by R07E",
+    "description": "20230611",
+    "uuid": "885213e8-6490-985a-7111-b59f854e504f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "370f06d4-4b9f-59f2-157b-16ccecf59559",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "R07E"
+    ],
+    "url": "mcpedl.com/user/rahee"
+  }
+}
