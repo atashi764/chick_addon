@@ -1,7 +1,7 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Chick addon by R07E",
+    "name": "Chicky by Rahee07",
     "description": "20230611",
     "uuid": "885213e8-6490-985a-7111-b59f854e504f",
     "version": [
@@ -25,11 +25,5 @@
         0
       ]
     }
-  ],
-  "metadata": {
-    "authors": [
-      "R07E"
-    ],
-    "url": "mcpedl.com/user/rahee"
-  }
+  ]
 }
